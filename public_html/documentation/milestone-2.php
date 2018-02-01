@@ -26,9 +26,21 @@
 		Gallery pop-up will include my role and contributions to each project, with iconography to represent the technology used.<br>
 		<br>
 		<h2>Contact</h2>
-		This section will contain a simple contact form, my professional email address, <br>
+		<p>
+			This section will contain a simple contact form, my professional email address, <br>
 		and additional links to my professional social media profiles:<br>
-		LinkedIn, Twitter, GitHub. (These will also be linked to in the footer site wide via icons.)
+			LinkedIn, Twitter, GitHub. (These will also be linked to in the footer site wide via icons.)
+		</p>
+
+		<img src = "wireframe-1.png"
+			  alt = "mockup-1" />
+
+		<img src = "wireframe-2.png"
+			  alt = "mockup-2" />
+
+		<img src = "wireframe-3.png"
+			  alt = "mockup-3" />
+
 	</body>
 
 
