@@ -4,9 +4,8 @@
 		<meta charset="utf-8"/>
 		<title>Personal Website Project milestone 2</title>
 	</head>
-	<body bgcolor="#e6ffff">
-	<p align="middle"
-		style="color: ghostwhite;font-size:35px">>
+	<body >
+
 		<h1>Content Strategy</h1>
 		<h3>My site will be one page, and will consist of the following sections:</h3>
 		<br>
