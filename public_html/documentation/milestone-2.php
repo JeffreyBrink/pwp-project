@@ -38,7 +38,7 @@
 			  alt = "mockup-2" />
 
 		<img src = "wireframe-3.png"
-			  alt = "mockup-3" />
+			  alt = "mockup-3" /><br>
 
 	</body>
 
