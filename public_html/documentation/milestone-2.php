@@ -45,6 +45,10 @@
 
 		<img src = "page-2.png"
 			  alt = "desktop mockup 2" /><br>
+
+		<img src = "page-3.png"
+			  alt = "desktop mockup 3" /><br>
+
 	</body>
 
 
