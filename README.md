@@ -30,3 +30,13 @@ Overall you did a great job. Keep up the good work!
 
 ### Grade
 Tier III https://bootcamp-coders.cnm.edu/projects/personal/rubric/
+
+## Milestone 2a 
+
+### Feedback 
+HTML, CSS and directory structure is perfect. I cannot say the same about your wireframes. I had a very hard time deciphering what exactly you wanted to accomplish. The mobile and desktop views did not match and the content strategy did not provide any clarity. This is a big indicator that you might also not know what you  want to accomplish. Wireframes are considered deliverables (something that is given to a client/employer) and it is important that they match what the end product will look like. I highly recommend that you spend more time fleshing out what exactly you want to accomplish before you begin development. 
+
+## Recommendations
+For your image gallery I recommend that you use [fancybox3](https://fancyapps.com/fancybox/3/). Fancybox3 will make displaying the images you want to display in a professional clean way (you may have to change the layout of your image gallery if you use fancybox). I  recommend you do not have a thumbnail scroll since they are not very mobile friendly. What you laid out in the desktop wireframes will require a few media queries specifically with the logo graphic in the contact me section. Are you going to have the same content for the about me section, if not you will also have to write media quires for that as well  
+
+## Grade Tier II
