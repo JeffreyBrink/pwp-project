@@ -17,60 +17,58 @@
 
 	</head>
 	<body>
-		<head>
-			<meta charset="UTF-8">
-			<meta name="viewport" content="width=device-width, initial-scaled=1, shrink-to-fit=no">
 
-			<title>Jeffrey Brink Personal website project</title>
-		</head>
 		<!--Navbar-->
 		<body >
 
-			<div>
+			<div class="card">
+				<img class="card-img" src="pwp-pic.jpg" alt="Card image">
+				<div class="card-img-overlay">
+
+					<p class="card-text"><h1>I'm text that has a background image!</h1></p>
+				</div>
+			</div>
+
+			<div class="card">
+				<img class="card-img" src="/city.jpg" alt="Card image">
+				<div class="card-img-overlay">
+					<p class="card-text">I'm text that has a background image!</p>
+				</div>
+			</div>
+
+
 
 				<div class="card">
 					<img class="card-img-top" src="pwp-pic.jpg" alt="Card image cap">
-					<div class="card-body"> Some more card content </div>
-				</div></div>
-
-
-			<!--Image with text inline-->
-
-			<div class="container-fluid">
-				<div class="media d-flex flex-column flex-sm-row">
-					<img class="img-fluid align-self-center p-5" src="03.jpg" alt="cat-1">
-
-					<div class="media-body py-5">
-						<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-					</div>
-
+					<div class="card-body">
+						<p class="text-right">Jeffrey Brink Web Design and Development </p></div>
 				</div>
-			</div>
 
-							<figcaption class="figure-caption text-center d-sm-inline-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque enim tortor, rhoncus in porta vitae, luctus sit amet nisl.</figcaption>
 
-						</figure>
+
+					<div class="card-group">
+						<div class="card">
+							<div class="card-body">
+								<h4 class="card-title">Card title</h4>
+								<img src="city-3.jpg">
+								<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+							</div>
+						</div>
+						<div class="card">
+							<div class="card-body">
+								<h4 class="card-title">Card title</h4>
+								<img src="city-2.jpg">
+								<p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+							</div>
+						</div>
+						<div class="card">
+							<div class="card-body">
+								<h4 class="card-title">Card title</h4>
+								<img src="city-1.jpg">
+								<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+							</div>
+						</div>
 					</div>
-					<div class="col-sm-3">
-						<figure class="figure m-4 d-flex-inline">
-							<img src="06.jpg" class="figure-img img-fluid rounded-circle" alt="kitty2">
-							<figcaption class="figure-caption text-center d-sm-inline-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque enim tortor, rhoncus in porta vitae, luctus sit amet nisl.</figcaption>
-						</figure>
-					</div>
-					<div class="col-sm-3">
-						<figure class="figure m-4 d-flex-inline">
-							<img src="05.jpg" class="figure-img img-fluid rounded-circle" alt="kitty-3">
-							<figcaption class="figure-caption text-center d-sm-inline-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque enim tortor, rhoncus in porta vitae, luctus sit amet nisl. </figcaption>
-						</figure>
-					</div>
-					<div class="col-sm-3">
-						<figure class="figure m-4 d-flex-inline">
-							<img src="06.jpg" class="figure-img img-fluid rounded-circle" alt="kitty-4">
-							<figcaption class="figure-caption text-center d-sm-inline-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque enim tortor, rhoncus in porta vitae, luctus sit amet nisl. </figcaption>
-						</figure>
-					</div>
-				</div>
-			</div>
 			<footer>
 				<div class="card-footer bg-dark text-muted text-center p-4 mt-4">
 					<p>blah blah blah</p>
