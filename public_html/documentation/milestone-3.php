@@ -5,6 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 
+
 		<ul class="nav justify-content-end">
 			<li class="nav-item">
 				<a class="nav-link active" href="#">Active</a>
@@ -26,11 +27,13 @@
 
 		<title>Jeffrey Brink Personal Website Project</title>
 
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+
 
 	</head>
 	<body>
 
-		<!--Navbar-->
+
 		<body >
 
 			<div class="card">
