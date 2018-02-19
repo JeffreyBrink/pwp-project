@@ -24,54 +24,51 @@
 			<div class="card">
 				<img class="card-img" src="pwp-pic.jpg" alt="Card image">
 				<div class="card-img-overlay">
-
-					<p class="card-text"><h1>I'm text that has a background image!</h1></p>
-				</div>
-			</div>
-
-			<div class="card">
-				<img class="card-img" src="/city.jpg" alt="Card image">
-				<div class="card-img-overlay">
-					<p class="card-text">I'm text that has a background image!</p>
-				</div>
-			</div>
-
-
-
-				<div class="card">
-					<img class="card-img-top" src="pwp-pic.jpg" alt="Card image cap">
 					<div class="card-body">
 						<p class="text-right">Jeffrey Brink Web Design and Development </p></div>
+
 				</div>
+			</div>
+
+			<div class="jumbotron">
+				<div class="container">
+					<img src="city.jpg">
+					<h1 class="display-3">This Month's Feature: Skylines</h1>
+					<p class="lead">Hong Kong boasts some of the worlds most beautiful skylines.</p>
+				</div>
+			</div>
+
+
+
 
 
 
 					<div class="card-group">
 						<div class="card">
 							<div class="card-body">
-								<h4 class="card-title">Card title</h4>
+								<h4 class="card-title">Dubai Nights</h4>
 								<img src="city-3.jpg">
-								<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+								<p class="card-text">Hot during the day, Hotter at night.  See Dubai in all it's glory..</p>
 							</div>
 						</div>
 						<div class="card">
 							<div class="card-body">
-								<h4 class="card-title">Card title</h4>
+								<h4 class="card-title">Seattle</h4>
 								<img src="city-2.jpg">
-								<p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+								<p class="card-text">There is no mistaking seattle's space needle....Tossed salads and scrambled eggs.</p>
 							</div>
 						</div>
 						<div class="card">
 							<div class="card-body">
-								<h4 class="card-title">Card title</h4>
+								<h4 class="card-title">Where could it be?</h4>
 								<img src="city-1.jpg">
-								<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+								<p class="card-text">Email us the answer and you could win a trip to spacious Omaha, Nebraska!.</p>
 							</div>
 						</div>
 					</div>
 			<footer>
 				<div class="card-footer bg-dark text-muted text-center p-4 mt-4">
-					<p>blah blah blah</p>
+					<p>A work in progress</p>
 				</div>
 			</footer>
 
