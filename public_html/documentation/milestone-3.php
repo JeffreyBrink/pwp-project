@@ -3,17 +3,32 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+		<ul class="nav justify-content-end">
+			<li class="nav-item">
+				<a class="nav-link active" href="#">Active</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#">Link</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#">Link</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link disabled" href="#">Disabled</a>
+			</li>
+		</ul>
+
+
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" />
 
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-
-
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 		<title>Hello, world!</title>
+
 
 	</head>
 	<body>
