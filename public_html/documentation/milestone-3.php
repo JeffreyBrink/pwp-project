@@ -21,13 +21,10 @@
 		</ul>
 
 
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" />
-
-
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-		<title>Hello, world!</title>
+		<title>Jeffrey Brink Personal Website Project</title>
 
 
 	</head>
@@ -40,7 +37,9 @@
 				<img class="card-img" src="pwp-pic.jpg" alt="Card image">
 				<div class="card-img-overlay">
 					<div class="card-body">
-						<p class="text-right">Jeffrey Brink Web Design and Development </p></div>
+						<div class="text-white"> <p class="text-right">
+								Jeffrey Brink Web Design and Development</p>
+						</div>
 
 				</div>
 			</div>
