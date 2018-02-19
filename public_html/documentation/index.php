@@ -1,50 +1,11 @@
 <!doctype html>
 <html lang="en">
-
+	<meta charset="utf-8">
 	<head>
-
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
+		<script src="jquery.fancybox.min.js"></script>
 	</head>
-
-	<body>
-		<h1>something clever</h1>
-		<h2>city</h2>
-		<div class="thumbnail">
-			<img src="city.jpg" alt="" width="60" height="60"><br>
-			Caption
-		</div>
-		<div class="thumbnail">
-			<img src="city-1.jpg" alt="" width="60" height="60"><br>
-			Caption
-		</div>
-		<div class="thumbnail">
-			<img src="city-2.jpg" alt="" width="60" height="60"><br>
-			Caption
-		</div>
-		<div class="thumbnail">
-			<img src="city-3.jpg" alt="" width="60" height="60"><br>
-			Caption
-		</div>
-		<div class="break"><h2>more cities</h2>
-		</div>
-
-		<div class="float:left">
-			<div class="thumbnail">
-			<img src="city-3.jpg" alt="" width="60" height="60"><br>
-			Caption
-		</div>
-		<div class="thumbnail">
-			<img src="city-2.jpg" alt="" width="60" height="60"><br>
-			Caption
-		</div>
-		<div class="thumbnail">
-			<img src="city-1.jpg" alt="" width="60" height="60"><br>
-			Caption
-		</div>
-		<div class="thumbnail">
-			<img src="city.jpg" alt="" width="60" height="60"><br>
-			Caption
-		</div>
-		</div>
 
 
 	</body>

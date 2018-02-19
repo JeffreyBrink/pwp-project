@@ -38,7 +38,8 @@
 				<div class="card-img-overlay">
 					<div class="card-body">
 						<div class="text-white"> <p class="text-right">
-								Jeffrey Brink Web Design and Development</p>
+							Jeffrey Brink Web Design and Development
+							</p>
 						</div>
 
 				</div>
@@ -51,13 +52,7 @@
 					<p class="lead">Hong Kong boasts some of the worlds most beautiful skylines.</p>
 				</div>
 			</div>
-
-
-
-
-
-
-					<div class="card-group">
+				<div class="card-group">
 						<div class="card">
 							<div class="card-body">
 								<h4 class="card-title">Dubai Nights</h4>
@@ -80,6 +75,8 @@
 							</div>
 						</div>
 					</div>
+
+
 			<footer>
 				<div class="card-footer bg-dark text-muted text-center p-4 mt-4">
 					<p>A work in progress</p>
