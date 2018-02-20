@@ -1,0 +1,48 @@
+/* Global CSS */
+body {
+	background: url('pwp-pic.jpg') cover no-repeat;
+
+
+h1 {
+	text-align: center;
+}
+
+/************************************************/
+
+/* thumbnail size*/
+img {
+	width: 200px;
+	height: 300px;
+	margin-bottom: 3em;
+}
+
+/************************************************/
+
+/* Form CSS */
+.container > form {
+	padding: 2em;
+	margin-left: 10%;
+}
+
+textarea {
+	box-sizing: border-box;
+	width: 100%;
+}
+
+/************************************************/
+
+/* Footer CSS */
+footer {
+	text-align: center;
+}
+
+/************************************************/
+
+/* Background */
+.gradient {
+	background-image:
+		linear-gradient(
+			to bottom right,
+			blue, black 20%
+		);
+}
