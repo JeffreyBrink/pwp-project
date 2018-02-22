@@ -69,11 +69,10 @@
 			</div>
 		</nav>
 
-
-
-
-
-
+		<div class="stars">
+		</div>
+		<div class="twinkling"></div>
+		<div class="clouds"></div>
 
 
 		<!-- Intro Header -->
@@ -82,6 +81,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-8 mx-auto">
+							<br><br><br><br><br><br>
 							<h2 class="brand-heading">Jeffrey Brink</h2><br>
 							<p class="intro-text">Professional <br>
 								<br>Web Design and Development</p>
@@ -93,6 +93,7 @@
 				</div>
 			</div>
 		</header>
+
 
 		<!-- Who I am Section -->
 		<section id="about" class="content-section text-center">
@@ -108,15 +109,23 @@
 			</div>
 		</section>
 
-		<!-- What I do Section -->
+
+		<div class="foreground"></div>
+
+		<div class="midground">
+			<div class="tuna"></div>
+		</div>
+
+		<div class="background-2">
+		</div>
+
+
 		<section id="download" class="download-section content-section text-center">
-			<div class="jumbotron jumbotron-fluid">
 
+			<div class="jumbotron">
 
-				<h1 align="center">Professional Portfolio</h1>
-				<div class="container">
-
-					<div class="row">
+				<div class="container-full-bg">
+				<div class="row">
 						<div class="col-md-3 col-sm-6 text-center">
 							<a href="city.jpg" data-fancybox="gallery-city">
 								<img class="img-thumbnail" src="city-1.jpg" alt="city 1"/>
@@ -161,9 +170,10 @@
 						</a>
 					</div>
 				</div>
-			</div>
-
 		</section>
+
+
+
 
 		<!-- Contact Section -->
 		<section id="contact" class="content-section text-center">
