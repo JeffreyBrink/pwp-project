@@ -1,4 +1,6 @@
 <!doctype html>
+
+
 <html lang="en">
 	<meta charset="utf-8">
 	<!-- sets default bootstrap viewport -->
@@ -37,10 +39,37 @@
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/js/grayscale.min.js?>
 
 		<!-- Personal CSS -->
-	<link rel="stylesheet.css" href="../css/stylesheet.css"/>
-
+	<link rel="/css/stylesheet.css" href="../css/stylesheet.css"/>
+	<head>
 
 	</head>
+
+	<body id="page-top">
+
+		<!-- Navigation -->
+		<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+			<div class="container">
+				<a class="navbar-brand js-scroll-trigger" href="#page-top">Need a Website?</a>
+				<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+					Menu
+					<i class="fa fa-bars"></i>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarResponsive">
+					<ul class="navbar-nav ml-auto">
+						<li class="nav-item">
+							<a class="nav-link js-scroll-trigger" href="#about">who I am</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link js-scroll-trigger" href="#download">What I do</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link js-scroll-trigger" href="#contact">Contact me</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+
 
 
 
@@ -54,9 +83,9 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-8 mx-auto">
-							<h1 class="brand-heading">Grayscale</h1>
-							<p class="intro-text">A free, responsive, one page Bootstrap theme.
-								<br>Created by Start Bootstrap.</p>
+							<h2 class="brand-heading">Jeffrey Brink</h2><br>
+							<p class="intro-text">Professional <br>
+								<br>Web Design and Development</p>
 							<a href="#about" class="btn btn-circle js-scroll-trigger">
 								<i class="fa fa-angle-double-down animated"></i>
 							</a>
@@ -65,57 +94,109 @@
 				</div>
 			</div>
 		</header>
-		<div class="jumbotron jumbotron-fluid">
 
-		</div>
-		<h1 align="center">Professional Portfolio</h1>
-		<div class="container">
+		<!-- Who I am Section -->
+		<section id="about" class="content-section text-center">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8 mx-auto">
+						<h2>About Myself</h2>
+						<p>This is the section where I will let potential employers get to know me.</p>
+						<p>Mayhaps a clever anecdote, or a story from my early years trying to make it as a lumberjack.</p>
+						<p>The only thing for sure is there will be absolutely no puns in this section.</p>
+					</div>
+				</div>
+			</div>
+		</section>
 
-			<div class="row">
-				<div class="col-md-3 col-sm-6 text-center">
-					<a href="city.jpg" data-fancybox="gallery-city">
-						<img class="img-thumbnail" src="city-1.jpg" alt="city 1"/>
-					</a>
+		<!-- What I do Section -->
+		<section id="download" class="download-section content-section text-center">
+			<div class="jumbotron jumbotron-fluid">
+
+
+				<h1 align="center">Professional Portfolio</h1>
+				<div class="container">
+
+					<div class="row">
+						<div class="col-md-3 col-sm-6 text-center">
+							<a href="city.jpg" data-fancybox="gallery-city">
+								<img class="img-thumbnail" src="city-1.jpg" alt="city 1"/>
+							</a>
+						</div>
+						<div class="col-md-3 col-sm-6 text-center">
+							<a href="city-2.jpg" data-fancybox="gallery-city" data-caption="city 2">
+								<img class="img-thumbnail" src="city-3.jpg" alt="city-3"/>
+							</a>
+						</div>
+						<div class="col-md-3 col-sm-6 text-center">
+							<a href="city.jpg" data-fancybox="gallery-city" data-caption="another city">
+								<img class="img-thumbnail" src="city-1.jpg" alt="another city"/>
+							</a>
+						</div>
+						<div class="col-md-3 col-sm-6 text-center">
+							<a href="city-2.jpg" data-fancybox="gallery-city" data-caption="another another city">
+								<img class="img-thumbnail" src="city-3.jpg" alt="city yet again"/>
+							</a>
+						</div>
+					</div>
 				</div>
-				<div class="col-md-3 col-sm-6 text-center">
-					<a href="city-2.jpg" data-fancybox="gallery-city" data-caption="city 2">
-						<img class="img-thumbnail" src="city-3.jpg" alt="city-3"/>
-					</a>
+				<div class="row">
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="city.jpg" data-fancybox="gallery-city">
+							<img class="img-thumbnail" src="city-1.jpg" alt="city 1"/>
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="city-2.jpg" data-fancybox="gallery-city" data-caption="city 2">
+							<img class="img-thumbnail" src="city-3.jpg" alt="city-3"/>
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="city.jpg" data-fancybox="gallery-city" data-caption="another city">
+							<img class="img-thumbnail" src="city-1.jpg" alt="another city"/>
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="city-2.jpg" data-fancybox="gallery-city" data-caption="another another city">
+							<img class="img-thumbnail" src="city-3.jpg" alt="city yet again"/>
+						</a>
+					</div>
 				</div>
-				<div class="col-md-3 col-sm-6 text-center">
-					<a href="city.jpg" data-fancybox="gallery-city" data-caption="another city">
-						<img class="img-thumbnail" src="city-1.jpg" alt="another city"/>
-					</a>
+			</div>
+
+		</section>
+
+		<!-- Contact Section -->
+		<section id="contact" class="content-section text-center">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8 mx-auto">
+						<h2>Contact Me</h2>
+						<p>Please feel free to message me at all the social medias below</p>
+						<ul class="list-inline banner-social-buttons">
+							<li class="list-inline-item">
+								<a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg">
+									<i class="fa fa-twitter fa-fw"></i>
+									<span class="network-name">Twitter</span>
+								</a>
+							</li>
+							<li class="list-inline-item">
+								<a href="https://github.com/BlackrockDigital/startbootstrap" class="btn btn-default btn-lg">
+									<i class="fa fa-github fa-fw"></i>
+									<span class="network-name">Github</span>
+								</a>
+							</li>
+							<li class="list-inline-item">
+								<a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg">
+									<i class="fa fa-google-plus fa-fw"></i>
+									<span class="network-name">Google+</span>
+								</a>
+							</li>
+						</ul>
+					</div>
 				</div>
-				<div class="col-md-3 col-sm-6 text-center">
-					<a href="city-2.jpg" data-fancybox="gallery-city" data-caption="another another city">
-						<img class="img-thumbnail" src="city-3.jpg" alt="city yet again"/>
-					</a>
-				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-3 col-sm-6 text-center">
-				<a href="city.jpg" data-fancybox="gallery-city">
-					<img class="img-thumbnail" src="city-1.jpg" alt="city 1"/>
-				</a>
-			</div>
-			<div class="col-md-3 col-sm-6 text-center">
-				<a href="city-2.jpg" data-fancybox="gallery-city" data-caption="city 2">
-					<img class="img-thumbnail" src="city-3.jpg" alt="city-3"/>
-				</a>
-			</div>
-			<div class="col-md-3 col-sm-6 text-center">
-				<a href="city.jpg" data-fancybox="gallery-city" data-caption="another city">
-					<img class="img-thumbnail" src="city-1.jpg" alt="another city"/>
-				</a>
-			</div>
-			<div class="col-md-3 col-sm-6 text-center">
-				<a href="city-2.jpg" data-fancybox="gallery-city" data-caption="another another city">
-					<img class="img-thumbnail" src="city-3.jpg" alt="city yet again"/>
-				</a>
-			</div>
-		</div>
+		</section>
 
 			<!-- Footer -->
 			<footer>
