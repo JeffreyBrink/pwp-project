@@ -27,11 +27,44 @@
 	<!--		<script src="jquery.fancybox.min.js"></script>-->
 	<!--		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>-->
 
-	<head>
+
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+		<link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
+
+		<!-- Custom styles for this template -->
+		<link href=https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/css/grayscale.min.css rel="stylesheet">
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/js/grayscale.min.js?>
+
+		<!-- Personal CSS -->
+	<link rel="stylesheet.css" href="../css/stylesheet.css"/>
+
 
 	</head>
 
-	<body>
+
+
+
+
+
+
+		<!-- Intro Header -->
+		<header class="masthead">
+			<div class="intro-body">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-8 mx-auto">
+							<h1 class="brand-heading">Grayscale</h1>
+							<p class="intro-text">A free, responsive, one page Bootstrap theme.
+								<br>Created by Start Bootstrap.</p>
+							<a href="#about" class="btn btn-circle js-scroll-trigger">
+								<i class="fa fa-angle-double-down animated"></i>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
 		<div class="jumbotron jumbotron-fluid">
 
 		</div>
@@ -84,7 +117,24 @@
 			</div>
 		</div>
 
+			<!-- Footer -->
+			<footer>
+				<div class="container text-center">
+					<p>Copyright &copy; Your Website 2018</p>
+				</div>
+			</footer>
 
+			<!-- Bootstrap core JavaScript -->
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+			<!-- Plugin JavaScript -->
+			<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js></script>
+
+			<!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
+			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+
+			<!-- Custom scripts for this template -->
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/js/grayscale.min.js"></script>
 
 
 	</body>
