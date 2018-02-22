@@ -34,7 +34,6 @@
 		<link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 		<link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
 
-		<!-- Custom styles for this template -->
 		<link href=https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/css/grayscale.min.css rel="stylesheet">
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/js/grayscale.min.js?>
 
@@ -181,13 +180,13 @@
 								</a>
 							</li>
 							<li class="list-inline-item">
-								<a href="https://github.com/BlackrockDigital/startbootstrap" class="btn btn-default btn-lg">
+								<a href="https://github.com/JeffreyBrink/" class="btn btn-default btn-lg">
 									<i class="fa fa-github fa-fw"></i>
 									<span class="network-name">Github</span>
 								</a>
 							</li>
 							<li class="list-inline-item">
-								<a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg">
+								<a href="https://www.linkedin.com/in/jeffreybrink11" class="btn btn-default btn-lg">
 									<i class="fa fa-google-plus fa-fw"></i>
 									<span class="network-name">Google+</span>
 								</a>
