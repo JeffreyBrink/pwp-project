@@ -1,7 +1,7 @@
 <!doctype html>
 
 
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 	<meta charset="utf-8">
 	<!-- sets default bootstrap viewport -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -107,6 +107,7 @@
 					</div>
 				</div>
 			</div>
+
 		</section>
 
 
@@ -171,6 +172,7 @@
 					</div>
 				</div>
 		</section>
+
 
 
 
