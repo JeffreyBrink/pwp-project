@@ -6,19 +6,20 @@
 }
 
 .masthead {
-	 display: table;
-	 width: 100%;
-	 height: auto;
-	 padding: 200px 0;
-	 text-align: center;
-	 color: white;
-	 background: linear-gradient(midnightblue, black);
-	 background-color: black;
-	 -webkit-background-size: cover;
-	 -moz-background-size: cover;
-	 -o-background-size: cover;
-	 background-size: cover;
- }
+	display: table;
+	width: 100%;
+	height: auto;
+	padding: 200px 0;
+	text-align: center;
+	color: white;
+	background: linear-gradient(midnightblue, black);
+	background-color: black;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding-top: 100vh;
+}
 
 .masthead .intro-body {
 	display: table-cell;
@@ -173,12 +174,13 @@ a:focus, a:hover {
 }
 
 .jumbotron {
-	background: linear-gradient(midnightblue, black);
+	/* background: linear-gradient(midnightblue, black); */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	height: 100%;
 	width: 100%;
+	background: transparent;
 }
 
 .content-section-2 {
@@ -268,166 +270,162 @@ translate3d(0,0,0);
 		url(http://stash.rachelnabors.com/24ways2012/background_mountain4.png),
 		url(http://stash.rachelnabors.com/24ways2012/background_mountain3.png),
 		url(http://stash.rachelnabors.com/24ways2012/background_mountain2.png),
-		url(http://stash.rachelnabors.com/24ways2012/background_mountain1.png);
-	background-repeat: repeat-x;
-	background-position: 0 100%;
-	z-index: 1;
-	animation: parallax_bg linear 40s infinite;
+	   url(http://stash.rachelnabors.com/24ways2012/background_mountain1.png);
+
+
+
+background-repeat: repeat-x;
+background-position: 0 100%;
+z-index: 1;
+animation: parallax_bg linear 40s infinite;
 }
 
 @keyframes parallax_bg {
-	100% { background-position-x: 2400px, 2000px, 1800px, 1600px, 1200px;}
+100% { background-position-x: 2400px, 2000px, 1800px, 1600px, 1200px;}
 }
 
 body {
-	background: linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%),
-	#d2d2d2 url(http://stash.rachelnabors.com/24ways2012/background_clouds.png);
+background: linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%),
+#d2d2d2 url(http://stash.rachelnabors.com/24ways2012/background_clouds.png);
 }
 
 @keyframes move-twink-back {
-	from {
-		background-position: 0 0;
-	}
-	to {
-		background-position: -10000px 5000px;
-	}
+from {
+	background-position: 0 0;
+}
+to {
+	background-position: -10000px 5000px;
+}
 }
 
 @-webkit-keyframes move-twink-back {
-	from {
-		background-position: 0 0;
-	}
-	to {
-		background-position: -10000px 5000px;
-	}
+from {
+	background-position: 0 0;
+}
+to {
+	background-position: -10000px 5000px;
+}
 }
 
 @-moz-keyframes move-twink-back {
-	from {
-		background-position: 0 0;
-	}
-	to {
-		background-position: -10000px 5000px;
-	}
+from {
+	background-position: 0 0;
+}
+to {
+	background-position: -10000px 5000px;
+}
 }
 
 @-ms-keyframes move-twink-back {
-	from {
-		background-position: 0 0;
-	}
-	to {
-		background-position: -10000px 5000px;
-	}
+from {
+	background-position: 0 0;
+}
+to {
+	background-position: -10000px 5000px;
+}
 }
 
 @keyframes move-clouds-back {
-	from {
-		background-position: 0 0;
-	}
-	to {
-		background-position: 10000px 0;
-	}
+from {
+	background-position: 0 0;
+}
+to {
+	background-position: 10000px 0;
+}
 }
 
 @-webkit-keyframes move-clouds-back {
-	from {
-		background-position: 0 0;
-	}
-	to {
-		background-position: 10000px 0;
-	}
+from {
+	background-position: 0 0;
+}
+to {
+	background-position: 10000px 0;
+}
 }
 
 @-moz-keyframes move-clouds-back {
-	from {
-		background-position: 0 0;
-	}
-	to {
-		background-position: 10000px 0;
-	}
+from {
+	background-position: 0 0;
+}
+to {
+	background-position: 10000px 0;
+}
 }
 
 @-ms-keyframes move-clouds-back {
-	from {
-		background-position: 0;
-	}
-	to {
-		background-position: 10000px 0;
-	}
+from {
+	background-position: 0;
+}
+to {
+	background-position: 10000px 0;
+}
 }
 
 .stars,
 .twinkling,
 .clouds {
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	width: 100%;
-	height: 100%;
-	display: block;
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+width: 100%;
+height: 100%;
+display: block;
 }
 
 .stars {
-	background: #000 url(http://sylvaingarnot.fr/media/stars.png) repeat top center;
-	z-index: 0;
+background: #000 url(http://sylvaingarnot.fr/media/stars.png) repeat top center;
+z-index: 0;
 }
 
 .twinkling {
-	background: transparent url(http://sylvaingarnot.fr/media/twinkling.png) repeat top center;
-	z-index: 1;
-	-moz-animation: move-twink-back 200s linear infinite;
-	-ms-animation: move-twink-back 200s linear infinite;
-	-o-animation: move-twink-back 200s linear infinite;
-	-webkit-animation: move-twink-back 200s linear infinite;
-	animation: move-twink-back 200s linear infinite;
+background: transparent url(http://sylvaingarnot.fr/media/twinkling.png) repeat top center;
+z-index: 1;
+-moz-animation: move-twink-back 200s linear infinite;
+-ms-animation: move-twink-back 200s linear infinite;
+-o-animation: move-twink-back 200s linear infinite;
+-webkit-animation: move-twink-back 200s linear infinite;
+animation: move-twink-back 200s linear infinite;
 }
 
 .clouds {
-	background: transparent url(http://sylvaingarnot.fr/media/clouds.png) repeat top center;
-	z-index: 3;
-	-moz-animation: move-clouds-back 200s linear infinite;
-	-ms-animation: move-clouds-back 200s linear infinite;
-	-o-animation: move-clouds-back 200s linear infinite;
-	-webkit-animation: move-clouds-back 200s linear infinite;
-	animation: move-clouds-back 200s linear infinite;}
-
-
-
-body {
-	width: 300px;
-	margin: 20px auto;
-	background: linear-gradient(to bottom, rgba(100, 100, 100, 0.2) 0%, rgba(255, 255, 255, 0.5) 40%, #ffffff 100%);
-	background-repeat: no-repeat;
+background: transparent url(http://sylvaingarnot.fr/media/clouds.png) repeat top center;
+z-index: 3;
+-moz-animation: move-clouds-back 200s linear infinite;
+-ms-animation: move-clouds-back 200s linear infinite;
+-o-animation: move-clouds-back 200s linear infinite;
+-webkit-animation: move-clouds-back 200s linear infinite;
+animation: move-clouds-back 200s linear infinite;
 }
+
 footer {
-	padding: 50px 0;
+padding: 50px 0;
 }
 
 footer p {
-	font-size: 14px;
-	margin: 0;
+font-size: 14px;
+margin: 0;
 }
 
 ::-moz-selection {
-	background: #fcfcfc;
-	background: rgba(255, 255, 255, 0.2);
-	text-shadow: none;
+background: #fcfcfc;
+background: rgba(255, 255, 255, 0.2);
+text-shadow: none;
 }
 
 ::selection {
-	background: #fcfcfc;
-	background: rgba(255, 255, 255, 0.2);
-	text-shadow: none;
+background: #fcfcfc;
+background: rgba(255, 255, 255, 0.2);
+text-shadow: none;
 }
 
 img::selection {
-	background: transparent;
+background: transparent;
 }
 
 img::-moz-selection {
-	background: transparent;
+background: transparent;
 }
 
 
@@ -438,7 +436,6 @@ img::-moz-selection {
 
 
 .content-section {
-	padding-top: 150px;
-	padding-bottom: 150px;
+/* padding-top: 150px; */
+	/* padding-bottom: 150px; */
 }
-
