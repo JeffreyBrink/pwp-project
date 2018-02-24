@@ -119,6 +119,7 @@
 		</div>
 
 		<div class="background-2">
+			<img src="skyline glow" alt="Mountain View"
 		</div>
 
 		<div></div>
