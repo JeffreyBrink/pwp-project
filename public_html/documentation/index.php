@@ -48,7 +48,7 @@
 		<!-- Navigation -->
 		<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
 			<div class="container">
-				<a class="navbar-brand js-scroll-trigger" href="#page-top">Need a Website?</a>
+				<a class="navbar-brand js-scroll-trigger" href="#page-top">Brink Media Solutions</a>
 				<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 					Menu
 					<i class="fa fa-bars"></i>
@@ -69,6 +69,8 @@
 			</div>
 		</nav>
 
+
+
 		<div class="stars">
 		</div>
 		<div class="twinkling"></div>
@@ -87,6 +89,7 @@
 								<br>Web Design and Development</p>
 							<a href="#about" class="btn btn-circle js-scroll-trigger">
 								<i class="fa fa-angle-double-down animated"></i>
+
 							</a>
 						</div>
 					</div>
@@ -117,12 +120,12 @@
 		<div class="midground">
 			<div class="tuna"></div>
 		</div>
-
+		<div></div>
 		<div class="background-2">
-			<img src="skyline glow" alt="Mountain View"
+
 		</div>
 
-		<div></div>
+
 		<section id="download" class="download-section content-section text-center">
 
 			<div class="jumbotron">
