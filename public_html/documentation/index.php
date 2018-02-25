@@ -69,14 +69,6 @@
 			</div>
 		</nav>
 
-
-
-		<div class="stars">
-		</div>
-		<div class="twinkling"></div>
-		<div class="clouds"></div>
-
-
 		<!-- Intro Header -->
 		<header class="masthead">
 			<div class="intro-body">
@@ -85,8 +77,8 @@
 						<div class="col-lg-8 mx-auto">
 							<br><br><br><br><br><br>
 							<h2 class="brand-heading">Jeffrey Brink</h2><br>
-							<p class="intro-text">Professional <br>
-								<br>Web Design and Development</p>
+							<p class="intro-text"><h4>Professional <br>
+								<br>Web Design and Development</h4>
 							<a href="#about" class="btn btn-circle js-scroll-trigger">
 								<i class="fa fa-angle-double-down animated"></i>
 
@@ -96,6 +88,14 @@
 				</div>
 			</div>
 		</header>
+
+		<div class="stars">
+		</div>
+		<div class="twinkling"></div>
+		<div class="clouds"></div>
+
+
+
 
 
 		<!-- Who I am Section -->
@@ -131,6 +131,8 @@
 			<div class="jumbotron">
 
 				<div class="container-full-bg">
+					<h1>Here are a few samples of my work</h1>
+					<h3>click an image to view in slideshow</h3>
 				<div class="row">
 						<div class="col-md-3 col-sm-6 text-center">
 							<a href="../images/pwp-13.jpg" data-fancybox="gallery-city">
