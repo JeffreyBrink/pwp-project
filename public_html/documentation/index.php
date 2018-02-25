@@ -133,8 +133,8 @@
 				<div class="container-full-bg">
 				<div class="row">
 						<div class="col-md-3 col-sm-6 text-center">
-							<a href="../images/pwp-1.png" data-fancybox="gallery-city">
-								<img class="img-thumbnail" src="../images/pwp-1.png" alt="city 1"/>
+							<a href="../images/pwp-13.jpg" data-fancybox="gallery-city">
+								<img class="img-thumbnail" src="../images/pwp-13.jpg" alt="city 1"/>
 							</a>
 						</div>
 						<div class="col-md-3 col-sm-6 text-center">
@@ -148,8 +148,8 @@
 							</a>
 						</div>
 						<div class="col-md-3 col-sm-6 text-center">
-							<a href="../images/pwp-4.png" data-fancybox="gallery-city" data-caption="another another city">
-								<img class="img-thumbnail" src="../images/pwp-4.png" alt="city yet again"/>
+							<a href="../images/pwp-7.png" data-fancybox="gallery-city" data-caption="another another city">
+								<img class="img-thumbnail" src="../images/pwp-7.png" alt="city yet again"/>
 							</a>
 						</div>
 					</div>
@@ -166,13 +166,35 @@
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
-						<a href="city.jpg" data-fancybox="gallery-city" data-caption="another city">
-							<img class="img-thumbnail" src="city-1.jpg" alt="another city"/>
+						<a href="../images/pwp-4.png" data-fancybox="gallery-city" data-caption="another city">
+							<img class="img-thumbnail" src="../images/pwp-4.png" alt="another city"/>
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
-						<a href="city-2.jpg" data-fancybox="gallery-city" data-caption="another another city">
-							<img class="img-thumbnail" src="city-3.jpg" alt="city yet again"/>
+						<a href="../images/pwp-8.png" data-fancybox="gallery-city" data-caption="another another city">
+							<img class="img-thumbnail" src="../images/pwp-8.png" alt="city yet again"/>
+						</a>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="../images/pwp-9.png" data-fancybox="gallery-city">
+							<img class="img-thumbnail" src="../images/pwp-9.png" alt="city 1"/>
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="../images/pwp-10.png" data-fancybox="gallery-city" data-caption="city 2">
+							<img class="img-thumbnail" src="../images/pwp-10.png" alt="city-3"/>
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="../images/pwp-1.png" data-fancybox="gallery-city" data-caption="another city">
+							<img class="img-thumbnail" src="../images/pwp-1.png" alt="another city"/>
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="../images/pwp-12.png" data-fancybox="gallery-city" data-caption="another another city">
+							<img class="img-thumbnail" src="../images/pwp-12.png" alt="city yet again"/>
 						</a>
 					</div>
 				</div>
