@@ -12,8 +12,7 @@
 	padding: 200px 0;
 	text-align: center;
 	color: white;
-	background: linear-gradient(midnightblue, black);
-	background-color: black;
+	background: url(../documentation/paint.jpg);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
