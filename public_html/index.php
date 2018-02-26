@@ -221,22 +221,21 @@
 		</section>
 
 		<!-- Contact section with contact form -->
-		<section id="contact-form">
+		<section id="contact-form" class="contact">
 			<div class="container-fluid py-3">
-				<h6 class="text-light text-center mb-0">CONTACT</h6>
+				<h1 class="text-light text-center mb-0">CONTACT ME</h1>
 			</div>
 
 			<div class="container p-4">
 				<div class="row p-4">
 					<div class="col-lg-6">
-						<h5>Let's work together!</h5>
-						<p>Please fill out the contact form or give us a call. We'll be in touch within two business days.<br></p>
+						<h2>Do you need Media solutions?</h2>
+						<p>Fill out the message form to drop me a line.<br></p>
 						<address>
-							<strong>Tekio Solutions, LLC</strong><br>
-							7820 Enchanted Hills Blvd NE<br>
-							Suite A-234<br>
-							Rio Rancho, NM 87144<br>
-							(505) 750-3791
+							<strong>Brink Media Solutions</strong><br>
+							6709 Jade Park ave ne<br>
+							Albuquerque, NM 87109<br>
+							(505) 385-9371
 						</address>
 					</div>
 					<div class="col-lg-6">
