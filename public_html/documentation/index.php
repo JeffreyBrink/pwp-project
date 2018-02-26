@@ -13,7 +13,7 @@
 	<link rel="stylesheet" type="text/css"
 			href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css">
 
-	<!-- Personal CSS -->
+	<!-- Personal CS -->
 	<link rel="stylesheet" href="../css/stylesheet.css"/>
 
 	<!-- jQuery first, then Popper.js, then bootstrap JS -->
