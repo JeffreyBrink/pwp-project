@@ -40,7 +40,27 @@
 		<!-- Personal CSS -->
 	<link rel="/css/stylesheet.css" href="../css/stylesheet.css"/>
 	<head>
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+
+		<!-- Google reCAPTCHA -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+
+		<!-- Google reCAPTCHA -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 	</head>
 
 	<body id="page-top">
@@ -208,6 +228,7 @@
 
 		<!-- Contact Section -->
 		<section id="contact" class="content-section text-center">
+			<div class="g-recaptcha" data-sitekey="6LfO_0cUAAAAAOfEW9M1_gXV5-dlSOrdUjBUpz9y"></div>
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 mx-auto">
@@ -231,6 +252,7 @@
 									<i class="fa fa-google-plus fa-fw"></i>
 									<span class="network-name">Google+</span>
 								</a>
+
 							</li>
 						</ul>
 					</div>
@@ -251,8 +273,6 @@
 			<!-- Plugin JavaScript -->
 			<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js></script>
 
-			<!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
 
 			<!-- Custom scripts for this template -->
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/js/grayscale.min.js"></script>
