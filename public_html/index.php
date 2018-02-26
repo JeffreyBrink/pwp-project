@@ -59,8 +59,6 @@
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
-		<!-- Google reCAPTCHA -->
-		<script src='https://www.google.com/recaptcha/api.js'></script>
 	</head>
 
 	<body id="page-top">
@@ -222,43 +220,71 @@
 				</div>
 		</section>
 
+		<!-- Contact section with contact form -->
+		<section id="contact">
+			<div class="container-fluid py-3">
+				<h6 class="text-light text-center mb-0">CONTACT</h6>
+			</div>
 
+			<div class="container p-4">
+				<div class="row p-4">
+					<div class="col-lg-6">
+						<h5>Let's work together!</h5>
+						<p>Please fill out the contact form or give us a call. We'll be in touch within two business days.<br></p>
+						<address>
+							<strong>Tekio Solutions, LLC</strong><br>
+							7820 Enchanted Hills Blvd NE<br>
+							Suite A-234<br>
+							Rio Rancho, NM 87144<br>
+							(505) 750-3791
+						</address>
+					</div>
+					<div class="col-lg-6">
+						<form id="contact-form" action="php/mailer.php" method="post">
+							<div class="form-group">
+								<label for="contactName">Name <span class="text-danger">*</span></label>
+								<input type="text" class="form-control" id="contactName" name="contactName" placeholder="Name">
+							</div>
+							<div class="form-group">
+								<label for="contactEmail">Email address <span class="text-danger">*</span></label>
+								<input type="email" class="form-control" id="contactEmail" name="contactEmail" aria-describedby="emailHelp" placeholder="Email">
+								<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+							</div>
+							<div class="form-group">
+								<label for="contactSubject">Subject <span class="text-danger">*</span></label>
+								<input type="text" class="form-control" id="contactSubject" name="contactSubject" placeholder="Subject">
+							</div>
+							<div class="form-group">
+								<label for="contactMessage">Message <span class="text-danger">*</span></label>
+								<textarea class="form-control" rows="5" id="contactMessage" name="contactMessage" placeholder="Message"></textarea>
+							</div>
 
+							<!-- reCAPTCHA -->
+							<div class="g-recaptcha" data-sitekey="6LfO_0cUAAAAAOfEW9M1_gXV5-dlSOrdUjBUpz9y"></div>
 
+							<button class="btn btn-success" type="submit">Send</button>
+						</form>
 
-		<!-- Contact Section -->
-		<section id="contact" class="content-section text-center">
-			<div class="g-recaptcha" data-sitekey="6LfO_0cUAAAAAOfEW9M1_gXV5-dlSOrdUjBUpz9y"></div>
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-8 mx-auto">
-						<h2>Contact Me</h2>
-						<p>Please feel free to message me at all the social medias below</p>
-						<ul class="list-inline banner-social-buttons">
-							<li class="list-inline-item">
-								<a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg">
-									<i class="fa fa-twitter fa-fw"></i>
-									<span class="network-name">Twitter</span>
-								</a>
-							</li>
-							<li class="list-inline-item">
-								<a href="https://github.com/JeffreyBrink/" class="btn btn-default btn-lg">
-									<i class="fa fa-github fa-fw"></i>
-									<span class="network-name">Github</span>
-								</a>
-							</li>
-							<li class="list-inline-item">
-								<a href="https://www.linkedin.com/in/jeffreybrink11" class="btn btn-default btn-lg">
-									<i class="fa fa-google-plus fa-fw"></i>
-									<span class="network-name">Google+</span>
-								</a>
-
-							</li>
-						</ul>
+						<!--empty area for form error/success output-->
+						<div class="row">
+							<div class="col-xs-12">
+								<div id="output-area"></div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</section>
+
+
+
+
+
+
+
+
+
+
 
 			<!-- Footer -->
 			<footer>
