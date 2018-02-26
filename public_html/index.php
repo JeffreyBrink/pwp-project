@@ -80,7 +80,7 @@
 							<a class="nav-link js-scroll-trigger" href="#download">What I do</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link js-scroll-trigger" href="#contact">Contact me</a>
+							<a class="nav-link js-scroll-trigger" href="#contact-form">Contact me</a>
 						</li>
 					</ul>
 				</div>
@@ -275,22 +275,6 @@
 			</div>
 		</section>
 
-
-
-
-
-
-
-
-
-
-
-			<!-- Footer -->
-			<footer>
-				<div class="container text-center">
-					<p>Copyright &copy; Your Website 2018</p>
-				</div>
-			</footer>
 
 			<!-- Bootstrap core JavaScript -->
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
