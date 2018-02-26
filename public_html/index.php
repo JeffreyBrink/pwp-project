@@ -221,7 +221,7 @@
 		</section>
 
 		<!-- Contact section with contact form -->
-		<section id="contact">
+		<section id="contact-form">
 			<div class="container-fluid py-3">
 				<h6 class="text-light text-center mb-0">CONTACT</h6>
 			</div>

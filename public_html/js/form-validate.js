@@ -12,6 +12,7 @@ $(document).ready(function(){
 	 *
 	 * @author Rochelle Lewis <rlewis37@cnm.edu>
 	 * @author Jolynn Pruitt <jpruitt5@cnm.edu>
+	 * @author Jeffrey Brink <jeffreybrink@gmx.com>
 	 **/
 
 	/* begin validate function here */
