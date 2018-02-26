@@ -14,7 +14,7 @@
 			href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css">
 
 	<!-- Personal CS -->
-	<link rel="stylesheet" href="../css/stylesheet.css"/>
+	<link rel="stylesheet" href="css/stylesheet.css"/>
 
 	<!-- jQuery first, then Popper.js, then bootstrap JS -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -155,68 +155,68 @@
 					<h3>click an image to view in slideshow</h3>
 				<div class="row">
 						<div class="col-md-3 col-sm-6 text-center">
-							<a href="../images/pwp-13.jpg" data-fancybox="gallery-city">
-								<img class="img-thumbnail" src="../images/pwp-13.jpg" alt="city 1"/>
+							<a href="images/pwp-13.jpg" data-fancybox="gallery-city">
+								<img class="img-thumbnail" src="images/pwp-13.jpg" alt="city 1"/>
 							</a>
 						</div>
 						<div class="col-md-3 col-sm-6 text-center">
-							<a href="../images/pwp-2.png" data-fancybox="gallery-city" data-caption="city 2">
-								<img class="img-thumbnail" src="../images/pwp-2.png" alt="city-3"/>
+							<a href="images/pwp-2.png" data-fancybox="gallery-city" data-caption="city 2">
+								<img class="img-thumbnail" src="images/pwp-2.png" alt="city-3"/>
 							</a>
 						</div>
 						<div class="col-md-3 col-sm-6 text-center">
-							<a href="../images/pwp-3.png" data-fancybox="gallery-city" data-caption="another city">
-								<img class="img-thumbnail" src="../images/pwp-3.png" alt="another city"/>
+							<a href="images/pwp-3.png" data-fancybox="gallery-city" data-caption="another city">
+								<img class="img-thumbnail" src="images/pwp-3.png" alt="another city"/>
 							</a>
 						</div>
 						<div class="col-md-3 col-sm-6 text-center">
-							<a href="../images/pwp-7.png" data-fancybox="gallery-city" data-caption="another another city">
-								<img class="img-thumbnail" src="../images/pwp-7.png" alt="city yet again"/>
+							<a href="images/pwp-7.png" data-fancybox="gallery-city" data-caption="another another city">
+								<img class="img-thumbnail" src="images/pwp-7.png" alt="city yet again"/>
 							</a>
 						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-3 col-sm-6 text-center">
-						<a href="../images/pwp-5.png" data-fancybox="gallery-city">
-							<img class="img-thumbnail" src="../images/pwp-5.png" alt="city 1"/>
+						<a href="images/pwp-5.png" data-fancybox="gallery-city">
+							<img class="img-thumbnail" src="images/pwp-5.png" alt="city 1"/>
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
-						<a href="../images/pwp-6.png" data-fancybox="gallery-city" data-caption="city 2">
-							<img class="img-thumbnail" src="../images/pwp-6.png" alt="city-3"/>
+						<a href="images/pwp-6.png" data-fancybox="gallery-city" data-caption="city 2">
+							<img class="img-thumbnail" src="images/pwp-6.png" alt="city-3"/>
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
-						<a href="../images/pwp-4.png" data-fancybox="gallery-city" data-caption="another city">
-							<img class="img-thumbnail" src="../images/pwp-4.png" alt="another city"/>
+						<a href="images/pwp-4.png" data-fancybox="gallery-city" data-caption="another city">
+							<img class="img-thumbnail" src="images/pwp-4.png" alt="another city"/>
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
-						<a href="../images/pwp-8.png" data-fancybox="gallery-city" data-caption="another another city">
-							<img class="img-thumbnail" src="../images/pwp-8.png" alt="city yet again"/>
+						<a href="images/pwp-8.png" data-fancybox="gallery-city" data-caption="another another city">
+							<img class="img-thumbnail" src="images/pwp-8.png" alt="city yet again"/>
 						</a>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-3 col-sm-6 text-center">
-						<a href="../images/pwp-9.png" data-fancybox="gallery-city">
-							<img class="img-thumbnail" src="../images/pwp-9.png" alt="city 1"/>
+						<a href="images/pwp-9.png" data-fancybox="gallery-city">
+							<img class="img-thumbnail" src="images/pwp-9.png" alt="city 1"/>
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
-						<a href="../images/pwp-10.png" data-fancybox="gallery-city" data-caption="city 2">
-							<img class="img-thumbnail" src="../images/pwp-10.png" alt="city-3"/>
+						<a href="images/pwp-10.png" data-fancybox="gallery-city" data-caption="city 2">
+							<img class="img-thumbnail" src="images/pwp-10.png" alt="city-3"/>
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
-						<a href="../images/pwp-1.png" data-fancybox="gallery-city" data-caption="another city">
-							<img class="img-thumbnail" src="../images/pwp-1.png" alt="another city"/>
+						<a href="images/pwp-1.png" data-fancybox="gallery-city" data-caption="another city">
+							<img class="img-thumbnail" src="images/pwp-1.png" alt="another city"/>
 						</a>
 					</div>
 					<div class="col-md-3 col-sm-6 text-center">
-						<a href="../images/pwp-12.png" data-fancybox="gallery-city" data-caption="another another city">
-							<img class="img-thumbnail" src="../images/pwp-12.png" alt="city yet again"/>
+						<a href="images/pwp-12.png" data-fancybox="gallery-city" data-caption="another another city">
+							<img class="img-thumbnail" src="images/pwp-12.png" alt="city yet again"/>
 						</a>
 					</div>
 				</div>
