@@ -6,13 +6,15 @@
 }
 
 .masthead {
+	background-image: "pwp-ball.png";
+	text-shadow: .5px 1px whitesmoke;
+	color: black;
 	display: table;
 	width: 100%;
 	height: auto;
 	padding: 200px 0;
 	text-align: center;
-	color: white;
-	background-image: url("../images/pwp-15.png");
+	/*background-image: url("../images/pwp-15.png");*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -160,7 +162,7 @@ a:focus, a:hover {
 	-webkit-transition: background 0.3s ease-in-out;
 	-moz-transition: background 0.3s ease-in-out;
 	transition: background 0.3s ease-in-out;
-	color: white;
+	color: darkslategrey;
 	border: 2px solid white;
 	border-radius: 100% !important;
 	background: transparent;
@@ -379,7 +381,7 @@ background: #000 url(http://sylvaingarnot.fr/media/stars.png) repeat top center;
 z-index: 0;
 }
 
-.twinkling {
+/*.twinkling {
 background: transparent url(http://sylvaingarnot.fr/media/twinkling.png) repeat top center;
 z-index: 1;
 -moz-animation: move-twink-back 200s linear infinite;
@@ -389,7 +391,7 @@ z-index: 1;
 animation: move-twink-back 200s linear infinite;
 }
 
-.clouds {
+/*.clouds {
 background: transparent url(http://sylvaingarnot.fr/media/clouds.png) repeat top center;
 z-index: 3;
 -moz-animation: move-clouds-back 200s linear infinite;
@@ -397,7 +399,7 @@ z-index: 3;
 -o-animation: move-clouds-back 200s linear infinite;
 -webkit-animation: move-clouds-back 200s linear infinite;
 animation: move-clouds-back 200s linear infinite;
-}
+}*/
 
 .contact {
 	background-image: url("../images/pwp-contact.png");

@@ -30,13 +30,12 @@
 	<!--		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>-->
 
 
-		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-		<link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-		<link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+	<link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
 
-		<link href=https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/css/grayscale.min.css rel="stylesheet">
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/js/grayscale.min.js?>
-
+	<link href=https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/css/grayscale.min.css rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/js/grayscale.min.js?>
 		<!-- Personal CSS -->
 	<link rel="/css/stylesheet.css" href="../css/stylesheet.css"/>
 	<head>
@@ -45,28 +44,22 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
-
 		<!-- Your JavaScript Form Validator -->
 		<script src="js/form-validate.js"></script>
 		<!-- jQuery Form, Additional Methods, Validate -->
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
-
 		<!-- Your JavaScript Form Validator -->
 		<script src="js/form-validate.js"></script>
-
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-
 	</head>
-
 	<body id="page-top">
-
 		<!-- Navigation -->
 		<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
 			<div class="container">
-				<a class="navbar-brand js-scroll-trigger" href="#page-top">Brink Media Solutions</a>
+				<a class="navbar-brand js-scroll-trigger" href="#page-top">Need a Website?</a>
 				<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 					Menu
 					<i class="fa fa-bars"></i>
@@ -87,6 +80,25 @@
 			</div>
 		</nav>
 
+		<header class="masthead">
+			<section id="about">
+			<div class="intro-body">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-8 mx-auto">
+							<br><br><br><br><br><br>
+							<h2 class="brand-heading">Jeffrey Brink</h2><br>
+							<p class="intro-text"><h4>Professional<br>
+								<br>Web Design and Development</h4>
+							<a href="#about" class="btn btn-circle js-scroll-trigger">
+								<i class="fa fa-angle-double-down animated"></i>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			</section>
+		</header>
 
 		<div class="stars">
 		</div>
@@ -94,12 +106,8 @@
 		<div class="clouds"></div>
 
 
-
-
-
 		<!-- Who I am Section -->
-		<section id="about" class="content-section text-center">
-
+		<section id="download" class="content-section text-center">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 mx-auto">
@@ -110,29 +118,20 @@
 					</div>
 				</div>
 			</div>
-
 		</section>
-
-
 		<div class="foreground"></div>
-
 		<div class="midground">
 			<div class="tuna"></div>
 		</div>
 		<div></div>
 		<div class="background-2">
-
 		</div>
-
-
 		<section id="download" class="download-section content-section text-center">
-
 			<div class="jumbotron">
-
 				<div class="container-full-bg">
 					<h1>Here are a few samples of my work</h1>
 					<h3>click an image to view in slideshow</h3>
-				<div class="row">
+					<div class="row">
 						<div class="col-md-3 col-sm-6 text-center">
 							<a href="images/pwp-13.jpg" data-fancybox="gallery-city">
 								<img class="img-thumbnail" src="images/pwp-13.jpg" alt="city 1"/>
@@ -200,13 +199,11 @@
 					</div>
 				</div>
 		</section>
-
 		<!-- Contact section with contact form -->
 		<section id="contact-form" class="contact">
 			<div class="container-fluid py-3">
 				<h1 class="text-light text-center mb-0">CONTACT ME</h1>
 			</div>
-
 			<div class="container p-4">
 				<div class="row p-4">
 					<div class="col-lg-6">
@@ -238,13 +235,10 @@
 								<label for="contactMessage">Message <span class="text-danger">*</span></label>
 								<textarea class="form-control" rows="5" id="contactMessage" name="contactMessage" placeholder="Message"></textarea>
 							</div>
-
 							<!-- reCAPTCHA -->
 							<div class="g-recaptcha" data-sitekey="6LfO_0cUAAAAAOfEW9M1_gXV5-dlSOrdUjBUpz9y"></div>
-
 							<button class="btn btn-success" type="submit">Send</button>
 						</form>
-
 						<!--empty area for form error/success output-->
 						<div class="row">
 							<div class="col-xs-12">
@@ -255,22 +249,11 @@
 				</div>
 			</div>
 		</section>
-
-
-			<!-- Bootstrap core JavaScript -->
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-			<!-- Plugin JavaScript -->
-			<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js></script>
-
-
-			<!-- Custom scripts for this template -->
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/js/grayscale.min.js"></script>
-
-
+		<!-- Bootstrap core JavaScript -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<!-- Plugin JavaScript -->
+		<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js></script>
+		<!-- Custom scripts for this template -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/startbootstrap-grayscale/3.3.7/js/grayscale.min.js"></script>
 	</body>
-
-
 </html>
-
-
