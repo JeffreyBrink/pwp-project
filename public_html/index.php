@@ -87,25 +87,6 @@
 			</div>
 		</nav>
 
-		<!-- Intro Header -->
-		<header class="masthead">
-			<div class="intro-body">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-8 mx-auto">
-							<br><br><br><br><br><br>
-							<h2 class="brand-heading">Jeffrey Brink</h2><br>
-							<p class="intro-text"><h4>Professional <br>
-								<br>Web Design and Development</h4>
-							<a href="#about" class="btn btn-circle js-scroll-trigger">
-								<i class="fa fa-angle-double-down animated"></i>
-
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</header>
 
 		<div class="stars">
 		</div>
