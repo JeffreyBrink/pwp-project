@@ -87,10 +87,13 @@
 					<div class="row">
 						<div class="col-lg-8 mx-auto">
 							<br><br><br><br><br><br>
-							<h2 class="brand-heading">Jeffrey Brink</h2><br>
-							<p class="intro-text"><h4>Professional<br>
-								<br>Web Design and Development</h4>
-							<a href="#about" class="btn btn-circle js-scroll-trigger">
+							<h6 class="brand-heading">Hi, I am Jeffrey</h6><br>
+							<p class="intro-text"><h4>I am an Albuquerque based
+								Multimedia Creation Artist<br>
+								<br>Specializing in web design<br>
+								Click below to learn more</h4><br>
+							<br>
+							<a href="#download" class="btn btn-circle js-scroll-trigger">
 								<i class="fa fa-angle-double-down animated"></i>
 							</a>
 						</div>
@@ -110,11 +113,48 @@
 		<section id="download" class="content-section text-center">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-8 mx-auto">
-						<h2>About Myself</h2>
-						<p>This is the section where I will let potential employers get to know me.</p>
-						<p>Mayhaps a clever anecdote, or a story from my early years trying to make it as a lumberjack.</p>
-						<p>The only thing for sure is there will be absolutely no puns in this section.</p>
+					<div class="col">
+						<h2>These are the tools I use to create</h2>
+
+
+							<ul class="list-inline">
+							<li>HTML 5</li>
+
+							<li>PHP</li>
+
+							<li>ANGULAR</li>
+
+							<li>CSS 3</li>
+
+							<li>MySQL</li>
+
+							<li>JAVASCRIPT</li>
+
+							<li>GIT</li>
+
+							<li>GITHUB</li>
+
+						</ul>
+
+						<ul class="list-inline-2">
+							<li>PHOTOSHOP</li>
+
+							<li>AFTER EFFECTS</li>
+
+							<li>ILLUSTRATOR</li>
+
+							<li>PREMIERE</li>
+
+							<li>CINEMA 4D</li>
+
+							<li>NUKE</li>
+
+							<li>FUSION</li>
+
+							<li>HOUDINI</li>
+
+						</ul>
+
 					</div>
 				</div>
 			</div>

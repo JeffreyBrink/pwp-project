@@ -6,20 +6,20 @@
 }
 
 .masthead {
-	background-image: "pwp-ball.png";
-	text-shadow: .5px 1px whitesmoke;
-	color: black;
+	background-image: url("../images/pwp-ball.png");
+	text-shadow: .5px 1px darkslategrey;
+	color: white;
 	display: table;
 	width: 100%;
 	height: auto;
 	padding: 200px 0;
 	text-align: center;
-	/*background-image: url("../images/pwp-15.png");*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	padding-top: 100vh;
+	padding-top: 115vh;
+	padding-bottom: 38vh;
 }
 
 .masthead .intro-body {
@@ -28,15 +28,17 @@
 }
 
 .masthead .intro-body .brand-heading {
-	font-size: 70px;
+	font-size: 50px;
 }
 
 .masthead .intro-body .intro-text {
-	font-size: 18px;
+	font-size: 15px;
 }
 
 .content-section {
 	background: linear-gradient(midnightblue, black);
+	padding-top: -5vh;
+	padding-bottom: 20vh;
 
 }
 
@@ -191,6 +193,21 @@ a:focus, a:hover {
 
 .download {
 	background: linear-gradient(midnightblue, black);
+}
+
+.list-inline {
+	font-size: xx-large;
+	color: whitesmoke;
+	text-shadow: 3px 1px darkslategrey;
+	text-align: left;
+}
+
+.list-inline-2 {
+	list-style-type: none;
+	font-size: xx-large;
+	color: whitesmoke;
+	text-shadow: 3px 1px darkslategrey;
+	text-align: right;
 }
 
 
