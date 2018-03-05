@@ -196,6 +196,8 @@ a:focus, a:hover {
 }
 
 .list-inline {
+	background-image: ;
+
 	font-size: xx-large;
 	color: whitesmoke;
 	text-shadow: 3px 1px darkslategrey;

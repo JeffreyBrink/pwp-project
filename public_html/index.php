@@ -111,7 +111,7 @@
 
 		<!-- Who I am Section -->
 		<section id="download" class="content-section text-center">
-			<div class="container">
+
 				<div class="row">
 					<div class="col">
 						<h2>These are the tools I use to create</h2>
