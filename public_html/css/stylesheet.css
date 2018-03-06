@@ -7,7 +7,7 @@
 
 
 .masthead {
-background-image: url("../images/fish.png");
+
 	text-shadow: .5px 1px darkslategrey;
 	color: white;
 	display: table;
@@ -30,11 +30,6 @@ background-image: url("../images/fish.png");
 .masthead .intro-body .intro-text {
 	font-size: 15px;
 }
-
-
-
-
-
 
 
 body {
