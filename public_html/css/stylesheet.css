@@ -7,7 +7,7 @@
 
 
 .masthead {
-
+background-image: url("../images/fish.png");
 	text-shadow: .5px 1px darkslategrey;
 	color: white;
 	display: table;
