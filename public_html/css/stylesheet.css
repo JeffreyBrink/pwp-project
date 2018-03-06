@@ -6,7 +6,7 @@
 }
 
 .masthead {
-	background-image: url("../images/pwp-ball.png");
+	/*background-image: url("../images/pwp-ball.png");*/
 	text-shadow: .5px 1px darkslategrey;
 	color: white;
 	display: table;
