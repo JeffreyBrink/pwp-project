@@ -80,6 +80,8 @@
 			</div>
 		</nav>
 
+
+
 		<header class="masthead">
 			<section id="about">
 			<div class="intro-body">
@@ -109,8 +111,10 @@
 		<div class="clouds"></div>
 
 
+
+
 		<!-- Who I am Section -->
-		<section id="download" class="content-section text-center">
+		<!--<section id="download" class="content-section text-center">
 
 				<div class="row">
 					<div class="col">
@@ -158,7 +162,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		<div class="foreground"></div>
 		<div class="midground">
 			<div class="tuna"></div>

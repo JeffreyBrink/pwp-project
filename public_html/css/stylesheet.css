@@ -24,7 +24,7 @@
 
 .masthead .intro-body {
 	display: table-cell;
-	vertical-align: middle;
+	vertical-align: center;
 }
 
 .masthead .intro-body .brand-heading {
@@ -36,7 +36,9 @@
 }
 
 .content-section {
-	background: linear-gradient(midnightblue, black);
+	background-image: url("../images/fish.png");
+	background-repeat: no-repeat;
+	background-size: auto;
 	padding-top: -5vh;
 	padding-bottom: 20vh;
 
@@ -187,17 +189,15 @@ a:focus, a:hover {
 }
 
 .content-section-2 {
-	background: linear-gradient(midnightblue, black);
+background-color(black);
 
 }
 
 .download {
-	background: linear-gradient(midnightblue, black);
+	background-color(black);
 }
 
 .list-inline {
-	background-image: ;
-
 	font-size: xx-large;
 	color: whitesmoke;
 	text-shadow: 3px 1px darkslategrey;
@@ -205,6 +205,7 @@ a:focus, a:hover {
 }
 
 .list-inline-2 {
+
 	list-style-type: none;
 	font-size: xx-large;
 	color: whitesmoke;
