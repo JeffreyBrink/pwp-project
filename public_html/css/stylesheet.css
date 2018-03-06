@@ -4,11 +4,10 @@
 .BG {
 	color: black;
 }
- .jumbotron {
-	 background-image: url("../images/fish.png");
- }
+
 
 .masthead {
+
 	text-shadow: .5px 1px darkslategrey;
 	color: white;
 	display: table;
@@ -32,14 +31,10 @@
 	font-size: 15px;
 }
 
-.content-section {
-	background-image: url("../images/fish.png");
-	background-repeat: no-repeat;
-	background-size: auto;
-	padding-top: -5vh;
-	padding-bottom: 20vh;
 
-}
+
+
+
 
 
 body {
@@ -176,14 +171,14 @@ a:focus, a:hover {
 }
 
 .jumbotron {
-	 background: linear-gradient(midnightblue, black);
-	-webkit-background-size: cover;
+	webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	height: 100%;
 	width: 100%;
 	background: transparent;
 }
+
 
 .content-section-2 {
 background-color(black);
@@ -194,21 +189,7 @@ background-color(black);
 	background-color(black);
 }
 
-.list-inline {
-	font-size: xx-large;
-	color: whitesmoke;
-	text-shadow: 3px 1px darkslategrey;
-	text-align: left;
-}
 
-.list-inline-2 {
-
-	list-style-type: none;
-	font-size: xx-large;
-	color: whitesmoke;
-	text-shadow: 3px 1px darkslategrey;
-	text-align: right;
-}
 
 
 
