@@ -7,7 +7,6 @@
 
 
 .masthead {
-
 	text-shadow: .5px 1px darkslategrey;
 	color: white;
 	display: table;
@@ -31,6 +30,9 @@
 	font-size: 15px;
 }
 
+.ul {
+	background-image: url("../images/fish.png");
+}
 
 
 
