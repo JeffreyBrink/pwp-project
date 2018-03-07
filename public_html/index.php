@@ -1,11 +1,14 @@
 <!doctype html>
 
 
-<html lang="en" xmlns="http://www.w3.org/1999/html">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 	<meta charset="utf-8">
 	<!-- sets default bootstrap viewport -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+	<head>
+
+		<title>Jeffrey Brink Personal website project</title>
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
 			integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -36,7 +39,7 @@
 
 
 
-	<head>
+
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<!-- jQuery Form, Additional Methods, Validate -->
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
@@ -88,7 +91,7 @@
 						</div>
 					</div>
 				</div>
-			</>
+			</div>
 		</header>
 
 		<div class="stars">
@@ -182,7 +185,7 @@
 				</div>
 		</section>
 		<!-- Contact section with contact form -->
-		<section id="contact-form" class="contact">
+		<!-- <section id="contact-form" class="contact"> -->
 			<div class="container-fluid py-3">
 				<h1 class="text-light text-center mb-0">CONTACT ME</h1>
 			</div>
@@ -230,7 +233,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+
 		<!-- Bootstrap core JavaScript -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<!-- Plugin JavaScript -->
