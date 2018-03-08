@@ -122,6 +122,9 @@
 		</section>
 
 		<section id="balloon">
+			<div class="jumbotron-fluid">
+
+			</div>
 
 		</section>
 
@@ -201,6 +204,7 @@
 		</section>
 		<!-- Contact section with contact form -->
 		<!-- <section id="contact-form" class="contact"> -->
+		<section id="contact">
 		<div class="container-fluid py-3">
 			<h1 class="text-light text-center mb-0">CONTACT ME</h1>
 		</div>
@@ -252,5 +256,6 @@
 				</div>
 			</div>
 		</div>
+		</section>
 	</body>
 </html>

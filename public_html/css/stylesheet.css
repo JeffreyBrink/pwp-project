@@ -62,10 +62,6 @@ p {
 	word-spacing: 10px;
 }
 
-
-#balloon {
-	background-image: url(); ;
-}
 #about {
 	font-size: 20px;
 }
@@ -419,8 +415,8 @@ z-index: 3;
 animation: move-clouds-back 200s linear infinite;
 }
 
-.contact {
-	background-image: url("../images/pwp-contact.png");
+#contact {
+	background-image: url("../images/balloon.png");
 	-
 	background-size: cover;
 
