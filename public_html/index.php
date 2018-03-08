@@ -99,10 +99,10 @@
 		<section class="masthead">
 			<div id="about">
 				<div class="col-lg-8 mx-auto">
-							<h3 id=class="brand-heading">Brink Media Solutions</h3>
-							<p class="intro-text">Creating original content in a media driven world</p>
-						</div>
-					</div>
+					<h3 id=class="brand-heading">Brink Media Solutions</h3>
+					<p class="intro-text">Creating original content in a media driven world</p>
+				</div>
+			</div>
 
 			<ul id="ul-1">
 				<li>Web Design and Development</li>
@@ -117,14 +117,8 @@
 				<li>Music and Sound Composition</li>
 			</ul>
 
-			<p id="web">HTML-5       CSS-3        PHP-7        MySQL          Javascript  Illustrator  After-Effects  Premiere  Nuke  Houdini  Black-Magic-Fusion-8</p>
-
-		</section>
-
-		<section id="balloon">
-			<div class="jumbotron-fluid">
-
-			</div>
+			<p id="web">HTML-5 CSS-3 PHP-7 MySQL Javascript Illustrator After-Effects Premiere Nuke Houdini
+				Black-Magic-Fusion-8</p>
 
 		</section>
 
@@ -205,57 +199,57 @@
 		<!-- Contact section with contact form -->
 		<!-- <section id="contact-form" class="contact"> -->
 		<section id="contact">
-		<div class="container-fluid py-3">
-			<h1 class="text-light text-center mb-0">CONTACT ME</h1>
-		</div>
-		<div class="container p-4">
-			<div class="row p-4">
-				<div class="col-lg-6">
-					<h2>Do you need Media solutions?</h2>
-					<p>Fill out the message form to drop me a line.<br></p>
-					<address>
-						<strong>Brink Media Solutions</strong><br>
-						6709 Jade Park ave ne<br>
-						Albuquerque, NM 87109<br>
-						(505) 385-9371
-					</address>
-				</div>
-				<div class="col-lg-6">
-					<form id="contact-form" action="php/mailer.php" method="post" novalidate>
-						<div class="form-group">
-							<label for="contactName">Name <span class="text-danger">*</span></label>
-							<input type="text" class="form-control" id="contactName" name="contactName" placeholder="Name">
-						</div>
-						<div class="form-group">
-							<label for="contactEmail">Email address <span class="text-danger">*</span></label>
-							<input type="email" class="form-control" id="contactEmail" name="contactEmail"
-									 aria-describedby="emailHelp" placeholder="Email">
-							<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.
-							</small>
-						</div>
-						<div class="form-group">
-							<label for="contactSubject">Subject <span class="text-danger">*</span></label>
-							<input type="text" class="form-control" id="contactSubject" name="contactSubject"
-									 placeholder="Subject">
-						</div>
-						<div class="form-group">
-							<label for="contactMessage">Message <span class="text-danger">*</span></label>
-							<textarea class="form-control" rows="5" id="contactMessage" name="contactMessage"
-										 placeholder="Message"></textarea>
-						</div>
-						<!-- reCAPTCHA -->
-						<div class="g-recaptcha" data-sitekey="6LfO_0cUAAAAAOfEW9M1_gXV5-dlSOrdUjBUpz9y"></div>
-						<button class="btn btn-success" type="submit">Send</button>
-					</form>
-					<!--empty area for form error/success output-->
-					<div class="row">
-						<div class="col-xs-12">
-							<div id="output-area"></div>
+			<div class="container-fluid py-3">
+			</div>
+			<div class="container p-4">
+				<div class="row p-4">
+					<div class="col-lg-6">
+						<h2>Do you need Media solutions?</h2>
+						<h2>Fill out the message form to drop me a line.</h2><br>
+						<address>
+							<strong>Brink Media Solutions</strong><br>
+							6709 Jade Park ave ne<br>
+							Albuquerque, NM 87109<br>
+							(505) 385-9371
+						</address>
+					</div>
+					<div class="col-lg-6">
+						<form id="contact-form" action="php/mailer.php" method="post" novalidate>
+							<div class="form-group">
+								<label for="contactName">Name <span class="text-danger">*</span></label>
+								<input type="text" class="form-control" id="contactName" name="contactName" placeholder="Name">
+							</div>
+							<div class="form-group">
+								<label for="contactEmail">Email address <span class="text-danger">*</span></label>
+								<input type="email" class="form-control" id="contactEmail" name="contactEmail"
+										 aria-describedby="emailHelp" placeholder="Email">
+								<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
+									else.
+								</small>
+							</div>
+							<div class="form-group">
+								<label for="contactSubject">Subject <span class="text-danger">*</span></label>
+								<input type="text" class="form-control" id="contactSubject" name="contactSubject"
+										 placeholder="Subject">
+							</div>
+							<div class="form-group">
+								<label for="contactMessage">Message <span class="text-danger">*</span></label>
+								<textarea class="form-control" rows="5" id="contactMessage" name="contactMessage"
+											 placeholder="Message"></textarea>
+							</div>
+							<!-- reCAPTCHA -->
+							<div class="g-recaptcha" data-sitekey="6LfO_0cUAAAAAOfEW9M1_gXV5-dlSOrdUjBUpz9y"></div>
+							<button class="btn btn-success" type="submit">Send</button>
+						</form>
+						<!--empty area for form error/success output-->
+						<div class="row">
+							<div class="col-xs-12">
+								<div id="output-area"></div>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
 		</section>
 	</body>
 </html>
