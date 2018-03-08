@@ -63,7 +63,6 @@
 				<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
 						  data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
 						  aria-label="Toggle navigation">
-					Menu
 					<i class="fa fa-bars"></i>
 				</button>
 				<div class="collapse navbar-collapse" id="navbarResponsive">
@@ -97,22 +96,34 @@
 		<div class="background-2">
 		</div>
 
-		<header class="masthead">
+		<section class="masthead">
 			<div id="about">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-8 mx-auto">
-							<h1 class="brand-heading">Brink Media Solutions</h1>
+				<div class="col-lg-8 mx-auto">
+							<h3 id=class="brand-heading">Brink Media Solutions</h3>
 							<p class="intro-text">Creating original content in a media driven world</p>
-							<a href="#about" class="btn btn-circle js-scroll-trigger">
-								<i class="fa fa-angle-double-down animated"></i>
-							</a>
 						</div>
 					</div>
-				</div>
-			</div>
-		</header>
 
+			<ul id="ul-1">
+				<li>Web Design and Development</li>
+				<li>Photography</li>
+				<li>Full Video Production</li>
+				<li>Music and Sound Composition</li>
+			</ul>
+			<ul id="ul">
+				<li>Web Design and Development</li>
+				<li>Photography</li>
+				<li>Full Video Production</li>
+				<li>Music and Sound Composition</li>
+			</ul>
+
+			<p id="web">HTML-5       CSS-3        PHP-7        MySQL          Javascript  Illustrator  After-Effects  Premiere  Nuke  Houdini  Black-Magic-Fusion-8</p>
+
+		</section>
+
+		<section id="balloon">
+
+		</section>
 
 
 		<section id="portfolio" class="download-section content-section text-center">

@@ -5,9 +5,12 @@
 	color: black;
 }
 
+#navbarResponsive {
+	text-shadow: 1px 1px 2px deepskyblue, 0 0 45px blue, 0 0 45px dodgerblue;
+}
 
 .masthead {
-	text-shadow: .5px 1px darkslategrey;
+	text-shadow: 1px 1px 2px deepskyblue, 0 0 45px blue, 0 0 45px dodgerblue;
 	color: white;
 	display: table;
 	width: 100%;
@@ -17,26 +20,17 @@
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	padding-top: 115vh;
-	padding-bottom: 38vh;
 }
 
 
 .masthead .intro-body .brand-heading {
-	font-size: 50px;
+	font-size: 25px;
 }
 
 .masthead .intro-body .intro-text {
-	font-size: 15px;
+	font-size: 10px;
+	word-spacing: 20px;
 }
-
-.ul {
-	background-image: url("../images/fish.png");
-}
-
-
-
-
 
 
 body {
@@ -57,14 +51,38 @@ html {
 
 
 p {
-	font-size: 25px;
+	font-size: 15px;
 	line-height: 1.5;
 	margin: 0 0 25px;
+	word-spacing: 50px;
 }
+
+.intro-text{
+	font-size: 25px;
+	word-spacing: 10px;
+}
+
+
+#balloon {
+	background-image: url(); ;
+}
+#about {
+	font-size: 20px;
+}
+
+
+#web {
+	margin-top: 300px;
+	font-size: 20px;
+	text-align: center;
+	word-spacing: 40px;
+	padding-top: 115px;
+}
+
 
 @media (min-width: 768px) {
 	p {
-		font-size: 18px;
+		font-size: 35px;
 		line-height: 1.6;
 		margin: 0 0 35px;
 	}
@@ -83,6 +101,7 @@ a:focus, a:hover {
 }
 
 #mainNav {
+	text-shadow: 1px 1px 10px deepskyblue, 0 0 45px blue, 0 0 45px dodgerblue;
 	font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	margin-bottom: 0;
 	text-transform: uppercase;
@@ -389,8 +408,8 @@ z-index: 1;
 -o-animation: move-twink-back 200s linear infinite;
 -webkit-animation: move-twink-back 200s linear infinite;
 animation: move-twink-back 200s linear infinite;
-}
-/*.clouds {
+}*/
+.clouds {
 background: transparent url(http://sylvaingarnot.fr/media/clouds.png) repeat top center;
 z-index: 3;
 -moz-animation: move-clouds-back 200s linear infinite;
@@ -398,7 +417,7 @@ z-index: 3;
 -o-animation: move-clouds-back 200s linear infinite;
 -webkit-animation: move-clouds-back 200s linear infinite;
 animation: move-clouds-back 200s linear infinite;
-}*/
+}
 
 .contact {
 	background-image: url("../images/pwp-contact.png");
