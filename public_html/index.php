@@ -68,14 +68,12 @@
 				<div class="collapse navbar-collapse" id="navbarResponsive">
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item">
-							<a class="nav-link js-scroll-trigger" href="#about">who I am</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link js-scroll-trigger" href="#portfolio">What I do</a>
+							<a class="nav-link js-scroll-trigger" href="#portfolio">What We do</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link js-scroll-trigger" href="#contact-form">Contact me</a>
-						</li>
 					</ul>
 				</div>
 			</div>
@@ -105,16 +103,17 @@
 			</div>
 
 			<ul id="ul-1">
+				<li>Solutions for every need:</li><br>
 				<li>Web Design and Development</li>
 				<li>Photography</li>
 				<li>Full Video Production</li>
 				<li>Music and Sound Composition</li>
 			</ul>
 			<ul id="ul">
-				<li>Web Design and Development</li>
-				<li>Photography</li>
-				<li>Full Video Production</li>
-				<li>Music and Sound Composition</li>
+				<li>Pre/Post film Production</li>
+				<li>Visual motion effects</li>
+				<li>Animation</li>
+				<li>Custom Logos and brand management</li>
 			</ul>
 
 			<p id="web">HTML-5 CSS-3 PHP-7 MySQL Javascript Illustrator After-Effects Premiere Nuke Houdini
@@ -126,6 +125,7 @@
 		<section id="portfolio" class="download-section content-section text-center">
 			<div id="jumbotron-2" class="jumbotron">
 				<div class="container-full-bg">
+
 					<h1>Here are a few samples of my work</h1>
 					<h3>click an image to view in slideshow</h3>
 					<div class="row">
