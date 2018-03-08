@@ -44,6 +44,23 @@ html {
 	height: 100%;
 }
 
+#about {
+	padding-bottom: 100px;
+}
+
+#late{
+	text-shadow: 1px 1px 2px black, 0 0 45px blue, 0 0 45px black;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
+
+#footer {
+font-size: 10px;
+	word-spacing: 15px;
+}
+
 p {
 	font-size: 15px;
 	line-height: 1.5;
@@ -272,10 +289,10 @@ translate3d(0, 0, 0);
 }
 
 .background-2 {
-	background-image: url(http://stash.rachelnabors.com/24ways2012/background_mountain5.png),
+	/*background-image: url(http://stash.rachelnabors.com/24ways2012/background_mountain5.png),
 	url(http://stash.rachelnabors.com/24ways2012/background_mountain4.png),
 	url(http://stash.rachelnabors.com/24ways2012/background_mountain3.png),
-	url(http://stash.rachelnabors.com/24ways2012/background_mountain2.png),
+	url(http://stash.rachelnabors.com/24ways2012/background_mountain2.png),*/
 	url(http://stash.rachelnabors.com/24ways2012/background_mountain1.png);
 
 	background-repeat: repeat-x;

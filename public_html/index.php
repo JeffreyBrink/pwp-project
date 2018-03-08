@@ -97,7 +97,7 @@
 		<section class="masthead">
 			<div id="about">
 				<div class="col-lg-8 mx-auto">
-					<h3 id=class="brand-heading">Brink Media Solutions</h3>
+					<h3 id=class="brand-heading">Brink Media Solutions</h3><br><br>
 					<p class="intro-text">Creating original content in a media driven world</p>
 				</div>
 			</div>
@@ -251,5 +251,8 @@
 				</div>
 			</div>
 		</section>
+		<footer id="late">
+			<h4>All images property of Brink Media Solutions</h4>
+		</footer>
 	</body>
 </html>
