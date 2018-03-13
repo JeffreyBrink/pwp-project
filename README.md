@@ -39,4 +39,16 @@ HTML, CSS and directory structure is perfect. I cannot say the same about your w
 ## Recommendations
 For your image gallery I recommend that you use [fancybox3](https://fancyapps.com/fancybox/3/). Fancybox3 will make displaying the images you want to display in a professional clean way (you may have to change the layout of your image gallery if you use fancybox). I  recommend you do not have a thumbnail scroll since they are not very mobile friendly. What you laid out in the desktop wireframes will require a few media queries specifically with the logo graphic in the contact me section. Are you going to have the same content for the about me section, if not you will also have to write media quires for that as well  
 
-## Grade Tier II
+Grade Tier II
+
+## Final PWP Feedback
+Nice work on implementing a creative and challenging design concept here. Love the cat animation. There are still some code and layout refinements that can be made, but you're almost there. The site is looking great on mobile (Android Pixel 2), and the CSS animation is fast. I'm not much a fan of the fixed footer here - it feels a little disruptive to your other content. At the very least I'd consider making it as tiny and unobtrusive as possible. 
+
+Your code is looking pretty good overall. Again, it could use a little refinement in the element sturcture, but otherwise it's acceptable. Your project is set up to spec, and the contact form appears to work great - check for a test message.
+
+Nice work - your final PWP Milestone passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).  Your cumulative PWP score is [28/40 (70%)](https://bootcamp-coders.cnm.edu/projects/personal/rubric/#sample-score). (20/40 is passing)
+
+- Milestone 1: Tier III
+- Milestone 2a: Tier II
+- Milestone 2b: Tier III
+- PWP Final: III
